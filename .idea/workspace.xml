@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fbc115f-3eba-4c7a-8e6d-4baf3cee687d" name="Default Changelist" comment="" />
+    <list default="true" id="6fbc115f-3eba-4c7a-8e6d-4baf3cee687d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dHmy47lY9S0Aerm6yVrYc8k8Qj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,9 +23,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -26,7 +41,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="CasosDepartamento" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataVisualizationPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -39,7 +54,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Test.py" />
+      <option name="SCRIPT_NAME" value="F:\Programacion\DataVisualizationPython\src\CasosDepartamento.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -50,7 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.CasosDepartamento" />
       </list>
     </recent_temporary>
   </component>
@@ -66,7 +81,8 @@
       <updated>1592090643948</updated>
       <workItem from="1592090646062" duration="144000" />
       <workItem from="1592090968925" duration="41000" />
-      <workItem from="1592091059666" duration="287000" />
+      <workItem from="1592091059666" duration="1366000" />
+      <workItem from="1592092484372" duration="2458000" />
     </task>
     <servers />
   </component>
@@ -74,32 +90,53 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1905" y="266" width="324" height="284" key="Github.ShareDialog" timestamp="1592091333079">
+    <state x="1905" y="266" width="324" height="284" key="Github.ShareDialog" timestamp="1592091432430">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
-    <state x="1905" y="266" width="324" height="284" key="Github.ShareDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592091333079" />
-    <state width="1322" height="172" key="GridCell.Tab.0.bottom" timestamp="1592090795107">
+    <state x="1905" y="266" width="324" height="284" key="Github.ShareDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592091432430" />
+    <state x="1831" y="0" key="Github.UntrackedFilesDialog" timestamp="1592091439136">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592090795107" />
-    <state width="1322" height="172" key="GridCell.Tab.0.center" timestamp="1592090795107">
+    <state x="1831" y="0" key="Github.UntrackedFilesDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592091439136" />
+    <state width="1322" height="172" key="GridCell.Tab.0.bottom" timestamp="1592095025027">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592090795107" />
-    <state width="1322" height="172" key="GridCell.Tab.0.left" timestamp="1592090795107">
+    <state width="1322" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592095025027" />
+    <state width="1322" height="172" key="GridCell.Tab.0.center" timestamp="1592095025026">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592090795107" />
-    <state width="1322" height="172" key="GridCell.Tab.0.right" timestamp="1592090795107">
+    <state width="1322" height="172" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592095025026" />
+    <state width="1322" height="172" key="GridCell.Tab.0.left" timestamp="1592095025026">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592090795107" />
-    <state x="1550" y="9" key="SettingsEditor" timestamp="1592091350930">
+    <state width="1322" height="172" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592095025026" />
+    <state width="1322" height="172" key="GridCell.Tab.0.right" timestamp="1592095025027">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
-    <state x="1550" y="9" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592091350930" />
+    <state width="1322" height="172" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592095025027" />
+    <state width="1322" height="215" key="GridCell.Tab.1.bottom" timestamp="1592092270293">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="215" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592092270293" />
+    <state width="1322" height="215" key="GridCell.Tab.1.center" timestamp="1592092270293">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="215" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592092270293" />
+    <state width="1322" height="215" key="GridCell.Tab.1.left" timestamp="1592092270293">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="215" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592092270293" />
+    <state width="1322" height="215" key="GridCell.Tab.1.right" timestamp="1592092270293">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="215" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592092270293" />
+    <state x="1550" y="9" key="SettingsEditor" timestamp="1592092439796">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1550" y="9" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592092439796" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DataVisualizationPython$Test.coverage" NAME="Test Coverage Results" MODIFIED="1592094207866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/DataVisualization$Test.coverage" NAME="Test Coverage Results" MODIFIED="1592090670529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>
